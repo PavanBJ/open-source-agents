@@ -2,6 +2,9 @@
 .env
 .env.*
 !.env.example
+
+# Generated reports
+report.md
 *.pem
 *.key
 credentials.json
